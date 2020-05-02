@@ -10,7 +10,7 @@ I housed the components in an old match box which sits on the door frame
 <img src=https://github.com/yjeanrenaud/iot_dooralarm/blob/master/yj_dooralarm2.jpg>
 and punched a hole in the top for the rgb led
 <img src=https://github.com/yjeanrenaud/iot_dooralarm/blob/master/yj_dooralarm3.jpg>
-note the contact is closed by a pice of tinfoil which is attached to the door via double-sided adhesive tape.
+note the contact is closed by a pice of tinfoil which is attached to the door via double-sided adhesive tape. I used jumper wires to connect it so the box can easily be removed from site without disassembly.
 
 coming up next: 
 - documentation of wiring
