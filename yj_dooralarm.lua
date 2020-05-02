@@ -2,7 +2,7 @@ print "--- yj_dooralarm.lua ---"
 --globals
 buzzerpin = 1
 switchpin = 5
---milisedoncds before we start alterting
+--miliseconds before we start alterting
 graceperiod = 5000 --in milliseconds!
 --how often to check for the open door
 checkInterval = 1000 --in milliseconds!
